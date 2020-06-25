@@ -39,7 +39,7 @@ section {
 	overflow: auto;
 }
 
-#yellow {
+#orange {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -77,7 +77,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: #50C878;
 	color: white;
 	padding: 5px;
 }
